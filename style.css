@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: blue;
+}
+
+footer {
+display: flex;
+justify-content: space-around;
+text-align: center;
+}
+
+header {
+text-align: center;
+background-color:black;
+font-size: 50px;
+}
+
+.link-nav {
+color: rgb(250, 246, 8);
+font-size: 28px;
+margin-right: 35px;
+text-decoration: none;
+border-bottom: 2px solid red;
+justify-content: space-between;
+}
+
+
+.link-header {
+color: white;
+}
+
+ul {
+font-size: 20px;
+color: red;
+}
+
+h1 {
+text-align: center;
+color: rgb(255, 0, 234);
+}
